@@ -10,3 +10,14 @@ misc.xml
 encodings.xml
 libraries
 inspectionProfiles
+ansible.cfg
+
+**/.surefire-*
+**/target/*
+**/.classpath
+**/.settings/*
+**/.project
+
+.idea
+.vscode
+.DS_Store
